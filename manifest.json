@@ -1,0 +1,9 @@
+{
+  "name": "Google Sheets Embed",
+  "organization": "Your Organization",
+  "description": "Embed a Google Sheets iframe",
+  "authType": "NONE",
+  "resources": {
+    "js": ["https://example.com/script.js"]
+  }
+}
