@@ -4,6 +4,6 @@
   "description": "Embed a Google Sheets iframe",
   "authType": "NONE",
   "resources": {
-    "js": ["https://example.com/script.js"]
+    "js": ["https://shlomi770.github.io/my-custom-viz/"]
   }
 }
